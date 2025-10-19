@@ -10,6 +10,12 @@
 [![Python](https://img.shields.io/badge/Python-87cefa?style=for-the-badge&logo=python&logoColor)](https://www.python.org/)
 [![Git](https://img.shields.io/badge/Git-87cefa?style=for-the-badge&logo=git&logoColor)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/GitHub-87cefa?style=for-the-badge&logo=github&logoColor=black)](https://docs.github.com/)
+
+
+</div>
+<img align="right" height="150" src="https://imgur.com/gallery/power-bi-CTfvJMi#WO3b2Bl.png" />
+
+ 
 ## O que estou estudando
 Ambiente de Desenvolvimento e Primeiros Passos com Python 
 
@@ -20,8 +26,6 @@ Versionamento de Código com Git e GitHub
 Desafios de Projetos: Crie Um Portfólio Vencedor
 
 Introdução a Engenharia de Dados com Python
-
-<img align="center" height="150" src="https://imgur.com/gallery/power-bi-CTfvJMi#cNB7fqI.png />
 
 ## Carreira de preferência
 
