@@ -21,6 +21,7 @@ Desafios de Projetos: Crie Um Portfólio Vencedor
 
 Introdução a Engenharia de Dados com Python
 
+<img align="center" height="150" src="https://imgur.com/gallery/power-bi-CTfvJMi#cNB7fqI.png />
 
 ## Carreira de preferência
 
