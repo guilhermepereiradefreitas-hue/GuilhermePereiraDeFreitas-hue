@@ -7,15 +7,14 @@
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://web.dio.me/users/guilhermepereiradefreitas?tab=achievements)
 [![GitHub](https://img.shields.io/badge/GitHub-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guilhermepereiradefreitas-hue)
 ## Habilidades 
+</div>
+<img align="right" height="80" src="https://imgur.com/gaU4iKL.png" />
+
 [![Python](https://img.shields.io/badge/Python-87cefa?style=for-the-badge&logo=python&logoColor)](https://www.python.org/)
 [![Git](https://img.shields.io/badge/Git-87cefa?style=for-the-badge&logo=git&logoColor)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/GitHub-87cefa?style=for-the-badge&logo=github&logoColor=black)](https://docs.github.com/)
 
 
-</div>
-<img align="right" height="150" src="https://imgur.com/gallery/power-bi-CTfvJMi#WO3b2Bl.png" />
-
- 
 ## O que estou estudando
 Ambiente de Desenvolvimento e Primeiros Passos com Python 
 
