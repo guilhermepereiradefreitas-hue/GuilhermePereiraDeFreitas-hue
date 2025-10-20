@@ -18,6 +18,18 @@
 ## O que estou estudando
 Ambiente de Desenvolvimento e Primeiros Passos com Python 
 
+Limpeza e Transformação de Dados com Power BI
+
+Criando Um Relatório Gerencial de Vendas com Power BI
+
+Fundamentos de Modelagem Dimensional
+
+Criando Dashboard Interativos com Power BI
+
+Analisando dados de um Dashboard de Vendas no Power BI
+
+Fundamentos de Business Intelligence (BI)
+
 Conhecendo a Linguagem de Programação Python
 
 Versionamento de Código com Git e GitHub
