@@ -5,38 +5,47 @@
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/guilherme-pereira-a80241184)
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://web.dio.me/users/guilhermepereiradefreitas?tab=achievements)
-[![GitHub](https://img.shields.io/badge/GitHub-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guilhermepereiradefreitas-hue)
+[![GitHub](https://img.shields.io/badge/GitHub-E44C30?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guilhermepereiradefreitas-hue)
+<a href="https://www.instagram.com/guilherme_aah/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30" height="30"> 
+</a>
+
 ## Habilidades 
 </div>
 <img align="right" height="80" src="https://imgur.com/gaU4iKL.png" />
 
-[![Python](https://img.shields.io/badge/Python-87cefa?style=for-the-badge&logo=python&logoColor)](https://www.python.org/)
-[![Git](https://img.shields.io/badge/Git-87cefa?style=for-the-badge&logo=git&logoColor)](https://git-scm.com/doc) 
-[![GitHub](https://img.shields.io/badge/GitHub-87cefa?style=for-the-badge&logo=github&logoColor=black)](https://docs.github.com/)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![GIT](https://img.shields.io/badge/Git-192436?style=for-the-badge&logo=git) 
+[![GitHub](https://img.shields.io/badge/GitHub-E44C30?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0101dev)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MYSQL](https://img.shields.io/badge/Mysql-192436?style=for-the-badge&logo=mysql&logoColor=6E99F5)            
+          
+          
+## Formação 
 
+NTT DATA - Engenharia de Dados com Python
 
 ## O que estou estudando
-Ambiente de Desenvolvimento e Primeiros Passos com Python 
 
-Limpeza e Transformação de Dados com Power BI
+Introdução ao Bootcamp - .Net com GitHub Copilot
 
-Criando Um Relatório Gerencial de Vendas com Power BI
+Sintaxe básica com .Net C#
 
-Fundamentos de Modelagem Dimensional
+Dados e Listas com .Net C#
 
-Criando Dashboard Interativos com Power BI
+POO com C#
 
-Analisando dados de um Dashboard de Vendas no Power BI
+Introdução a banco de dados
 
-Fundamentos de Business Intelligence (BI)
+Criando APIs com .Net C#
 
-Conhecendo a Linguagem de Programação Python
+Desenvolvimento de Aplicativos com Inteligência Artificial 
 
-Versionamento de Código com Git e GitHub
+Fundamentos da Programação (SENAI)
 
-Desafios de Projetos: Crie Um Portfólio Vencedor
-
-Introdução a Engenharia de Dados com Python
+Fundamentos da Programação (Santander Open Academy) pela Plataforma de Curso da DIO.
 
 ## Carreira de preferência
 
@@ -47,11 +56,9 @@ Game Developer
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilhermepereiradefreitas-hue&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-##🎯 Objetivos
+## 🎯 Objetivos
 
 Atualmente em transição de carreira e em Busca de Conhecimento;
-
-Contribuir para projetos open-source;
 
 Continuar aprendendo e me aperfeiçoando
 
