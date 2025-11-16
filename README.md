@@ -49,8 +49,7 @@ Fundamentos da Programação (Santander Open Academy) pela Plataforma de Curso d
 
 ## Carreira de preferência
 
-Game Developer
-
+Fullstack Developer
 
 ## Minhas contribuições
 
