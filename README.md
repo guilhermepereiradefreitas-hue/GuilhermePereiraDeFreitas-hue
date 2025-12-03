@@ -17,8 +17,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![GIT](https://img.shields.io/badge/Git-192436?style=for-the-badge&logo=git) 
 [![GitHub](https://img.shields.io/badge/GitHub-E44C30?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0101dev)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/Mysql-192436?style=for-the-badge&logo=mysql&logoColor=6E99F5)            
           
