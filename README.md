@@ -76,7 +76,7 @@ Sempre explorando novas formas de aplicar **IA**, **automação** e **boas prát
 
 ---
 
-### 🌐 Meu Projeto Asistente Virtual Vootada a Consultoria Estratégica com Inteligência Artificial
+### 🌐 Meu Projeto Asistente Virtual Voltada a Consultoria Estratégica com Inteligência Artificial
 
 <div align="center">
   <img src="https://i.imgur.com/TpzEj4b.png" alt="Minha imagem" height="300">
