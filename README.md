@@ -81,4 +81,3 @@ Sempre explorando novas formas de aplicar **IA**, **automação** e **boas prát
 <div align="center">
   <img src="https://https://imgur.com/TpzEj4b />" alt="Descrição da imagem" height="80">
 </div>
-
