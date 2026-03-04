@@ -74,3 +74,8 @@ Sempre explorando novas formas de aplicar **IA**, **automação** e **boas prát
 
 ⭐ Se curtir meus projetos, não esqueça de deixar uma estrela!
 
+---
+
+### 🌐 Meu Projeto Asistente Virtual Vootada a Consultoria Estratégica com Inteligência Artificial
+
+<img align="senter" height="80" src="https://https://imgur.com/TpzEj4b />
